@@ -1,0 +1,3 @@
+[submodule "ansible-2019-April-weekend"]
+	path = ansible-2019-April-weekend
+	url = https://github.com/javahometech/ansible-2019-April-weekend.git
